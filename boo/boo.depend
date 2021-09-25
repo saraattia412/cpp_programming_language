@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592144003 source:f:\moi\c++\boo\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
